@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJoZHVyaWpvN2F2MzJkc2M5OGZuZjI4ZGNkOGI2NGM3ZjU3ZGMxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btSjkHuXP5NIIco/giphy.gif" width="400">
+  <img src="https://media.tenor.com/bagek-scouts-wall-eren-104GIF/scouting-legion-survey-corps-attack-on-titan-aot-flag.gif" width="400">
 </div>
