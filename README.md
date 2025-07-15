@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm [Your Name]
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400">
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=jamjavad&color=brightgreen&style=flat-square" alt="Profile Views">
 </div>
@@ -120,18 +120,12 @@ currently_exploring = {
 - 🧠 Fascinated by the intersection of AI and human creativity
 - 📖 Always reading the latest ML research papers
 - ☕ Powered by coffee and curiosity
-- ⚔️ AOT fan - Always fighting for freedom like the Survey Corps! 🗡️
-- 🦅 "If you don't fight, you can't win" - my coding philosophy
 
 ---
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-  <br><br>
-  <img src="https://i.imgur.com/kOnzy3l.png" width="50" alt="Wings of Freedom">
-  <br>
-  <i>"Dedicate your heart!" - Survey Corps</i>
 </div>
 
 ---
