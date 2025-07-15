@@ -1,3 +1,1 @@
-<div align="center">
-  <img src="./giphy.gif" width="400">
-</div>
+<img src="giphy.gif" width="100%" alt="Colorful Network Animation">
