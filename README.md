@@ -120,12 +120,18 @@ currently_exploring = {
 - 🧠 Fascinated by the intersection of AI and human creativity
 - 📖 Always reading the latest ML research papers
 - ☕ Powered by coffee and curiosity
+- ⚔️ AOT fan - Always fighting for freedom like the Survey Corps! 🗡️
+- 🦅 "If you don't fight, you can't win" - my coding philosophy
 
 ---
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <br><br>
+  <img src="https://i.imgur.com/kOnzy3l.png" width="50" alt="Wings of Freedom">
+  <br>
+  <i>"Dedicate your heart!" - Survey Corps</i>
 </div>
 
 ---
